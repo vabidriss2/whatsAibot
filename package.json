@@ -2,9 +2,9 @@
   "name": "whatsAibot",
   "version": "1.0.0",
   "description": "Assistant WhatsApp IA professionnel - Vab&Idriss",
-  "main": "src/server.js",
+  "main": "server.js",
   "scripts": {
-    "start": "node src/server.js"
+    "start": "node server.js"
   },
   "dependencies": {
     "body-parser": "^1.20.2",
@@ -16,3 +16,4 @@
     "twilio": "^4.23.0"
   }
 }
+
